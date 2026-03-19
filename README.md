@@ -102,7 +102,18 @@ Handles user input via:
 
 ## Screenshots / Demo
 
->  Add screenshots here (IMPORTANT)
+<img width="1367" height="932" alt="image" src="https://github.com/user-attachments/assets/9dd79f27-3d26-4870-91e5-a33fed44f364" />
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/a382a2b2-cf1b-4888-b0f6-c0ad79ba4e4c" />
+<img width="420" height="713" alt="image" src="https://github.com/user-attachments/assets/a4a4e85c-e217-4209-9078-ad0187019dcf" />
+<img width="405" height="713" alt="image" src="https://github.com/user-attachments/assets/d4fe6035-9bf2-4fe9-aca1-add9b0d2c8fd" />
+<img width="408" height="767" alt="image" src="https://github.com/user-attachments/assets/591989e2-b67a-43a0-ab91-8e23259df7b9" />
+<img width="408" height="333" alt="image" src="https://github.com/user-attachments/assets/ecb49b4a-a3ad-41b7-a33e-ad8e663bb749" />
+<img width="326" height="728" alt="image" src="https://github.com/user-attachments/assets/f604a24a-f55c-4146-acc3-3c1f64d35902" />
+<img width="326" height="728" alt="image" src="https://github.com/user-attachments/assets/82f6719f-747f-4bd1-99ef-0f95bbcdd171" />
+<img width="326" height="729" alt="image" src="https://github.com/user-attachments/assets/88dbc6c6-28c3-4aed-973e-3c35525daa38" />
+<img width="326" height="728" alt="image" src="https://github.com/user-attachments/assets/085d04e6-7cf0-48c4-9b4a-26bbecba0839" />
+<img width="321" height="730" alt="image" src="https://github.com/user-attachments/assets/ffddde60-fd8e-4213-a65e-239968cfee1b" />
+<img width="321" height="730" alt="image" src="https://github.com/user-attachments/assets/138b9604-4d39-463e-a562-ba87e5b2665e" />
 
 Example:
 - App UI  
