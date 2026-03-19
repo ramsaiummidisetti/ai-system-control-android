@@ -51,7 +51,7 @@ The app is designed with a hybrid AI architecture that combines rule-based logic
 
 ---
 
-## 🧩 Project Modules
+##  Project Modules
 
 ### 1. Input Layer
 Handles user input via:
@@ -111,7 +111,7 @@ Example:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 ```bash
